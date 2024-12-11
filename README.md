@@ -1,3 +1,3 @@
-# commclassroomOP
+# community classroomOP
 
-Kunal Kushwaha learing github amazing..
+Yojana is learning devops to explore more in IT Industry.
